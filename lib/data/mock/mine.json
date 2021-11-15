@@ -1,0 +1,46 @@
+{
+    "mineData": {
+        "list": [
+            {
+                "imageUrl": "http://www.hdec.com/cn/images/banner1.jpg",
+                "name": "谢毅",
+                "departmant": "华东勘测设计院(福建)有限公司"
+            },
+            {
+                "icon": "http://www.hdec.com/cn/images/banner1.jpg",
+                "itemName": "手机",
+                "detail": "1768922866",
+                "extInfo": {}
+            },
+            {
+                "icon": "http://www.hdec.com/cn/images/banner1.jpg",
+                "itemName": "邮箱",
+                "detail": "179806605@qq.com",
+                "extInfo": {}
+            },
+            {
+                "icon": "http://www.hdec.com/cn/images/banner1.jpg",
+                "itemName": "二维码",
+                "jumpUrl": "ssss",
+                "detail": " ",
+                "extInfo": {}
+            },
+            {
+                "icon": "http://www.hdec.com/cn/images/banner1.jpg",
+                "itemName": "版本",
+                "detail": " ",
+                "extInfo": {}
+            },
+            {
+                "icon": "http://www.hdec.com/cn/images/banner1.jpg",
+                "itemName": "修改密码",
+                "detail": " ",
+                "jumpUrl": "ssss",
+                "extInfo": {}
+            },
+            {
+                "name": "退出登录"
+            }
+        ]
+    }
+}
